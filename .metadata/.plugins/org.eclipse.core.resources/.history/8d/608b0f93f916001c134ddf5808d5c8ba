@@ -1,0 +1,19 @@
+package org.saluti.corso;
+
+public class Francesce extends Saluto{
+
+	@Override
+	protected String esegui() {
+	
+		return this.getNazione() + this.getModoSaluto();
+	}
+
+	
+		
+		
+
+	
+	
+
+}
+}

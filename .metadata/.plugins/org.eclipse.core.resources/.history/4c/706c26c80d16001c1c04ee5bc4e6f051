@@ -1,0 +1,41 @@
+package org.prova;
+
+public class test {
+
+	private String libri;
+	private String titoli;
+	private String autori;
+	public String getLibri() {
+		return libri;
+	}
+		
+		public boolean verificaautori()  {
+			
+			if (autori == "tedesco") {
+				
+				System.out.println("kant");
+			}
+			
+			
+			
+		
+		
+		
+	}
+	public void setLibri(String libri) {
+		this.libri = libri;
+	}
+	public String getTitoli() {
+		return titoli;
+	}
+	public void setTitoli(String titoli) {
+		this.titoli = titoli;
+	}
+	public String getAutori() {
+		return autori;
+	}
+	public void setAutori(String autori) {
+		this.autori = autori;
+	}
+	
+}

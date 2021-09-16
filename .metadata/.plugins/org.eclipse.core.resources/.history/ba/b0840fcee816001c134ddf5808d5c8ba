@@ -1,0 +1,14 @@
+package org.esercizio;
+
+
+
+public class Macchina {
+	
+	private String modello;
+	private long velocità;
+	private long velocitaMax;
+	private Persona proprietario;
+
+
+}
+}

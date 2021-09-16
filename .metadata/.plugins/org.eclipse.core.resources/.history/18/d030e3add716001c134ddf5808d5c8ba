@@ -1,0 +1,68 @@
+package org.esercizio;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		persona daniel = new persona ();
+		 persona sara= new persona(n);
+		
+	
+		daniel.setNome("daniel");
+		daniel.setCognome("cherchi");
+//		daniel.setCf("OULAJS1234");
+		//daniel.NomeCognome();
+		
+		sara.setNome("sara");
+		sara.setCognome("rossi");
+		sara.setCf("12345kajdlal");
+		//sara.NomeCognome();
+		
+		
+		
+		
+
+		//System.out.println(daniel.NomeCognome());
+		//System.out.println(sara.NomeCognome());
+		
+		
+		
+			
+			
+		
+		if(daniel.Controllacf()) {
+			
+			
+			System.out.println("le prime cifre sono lettere");
+		} else {
+			
+			
+			
+			System.out.println("le prime cifre non sono lettere");
+			
+		}
+		
+		
+		
+		
+
+		if(sara.Controllacf()) {
+			
+			
+			System.out.println("le prime cifre sono lettere");
+		} else {
+			
+			
+			System.out.println("le prime cifre non sono lettere");
+		}
+		
+		
+		
+			
+			
+		
+		
+	}
+	
+
+}

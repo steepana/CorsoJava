@@ -1,0 +1,18 @@
+package org.esercizio;
+
+public class Main {
+
+	public static void main(String[] args) {
+		persona alex = new persona ();
+		persona reira= new persona();
+		
+		alex.setNome("alex");
+		alex.setCognome("manno");
+		alex.setCf("OULAJS1234");
+		
+		reira.setNome("reira");
+		reira.setCognome("rajeswaran");
+		reira.setCf("ORUDNA1245");
+	}
+
+}

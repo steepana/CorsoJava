@@ -1,0 +1,28 @@
+package org.calcolatrice;
+
+public class Calcolatrice {
+	
+	private int calcolatore1;
+	private int calcolatore2;
+
+
+	private int effettua () {
+		
+		return 0;
+	};
+	
+	
+	
+	public int calcola (int calcolatore1, int calcolatore2) {
+	this.calcolatore1=calcolatore1;
+	this.calcolatore2=calcolatore2;
+	int risultato=this.effettua();
+	return risultato;
+	}
+		
+	}
+	
+	
+	
+
+

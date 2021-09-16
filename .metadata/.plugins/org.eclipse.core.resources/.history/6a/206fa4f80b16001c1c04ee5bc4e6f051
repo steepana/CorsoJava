@@ -1,0 +1,15 @@
+package org.prova;
+
+class biblioteca {
+
+	public static void main(String[] args) {
+		
+		test libreria= new test();
+		libreria.setLibri("italiano");
+		libreria.setAutori("Leopardi");
+		libreria.setTitoli("sabato del villaggio");
+		
+
+	}
+
+}

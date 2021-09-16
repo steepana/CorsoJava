@@ -1,0 +1,38 @@
+package org.saluti.corso;
+
+public class Saluto {
+
+
+	
+
+	private String nazione;
+	private String modoSaluto;
+	
+	
+	
+	
+	public String getNazione() {
+		return nazione;
+	}
+	public void setNazione(String nazione) {
+		this.nazione = nazione;
+	}
+	public String getTipoSaluto() {
+		return tipoSaluto;
+	}
+	public void setTipoSaluto(String tipoSaluto) {
+		this.tipoSaluto = tipoSaluto;
+	}
+	
+	
+	
+	
+	}
+
+
+
+		
+
+
+	
+

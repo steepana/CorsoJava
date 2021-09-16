@@ -1,0 +1,31 @@
+package org.corso;
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Animali nome= new Animali();
+		Animali colore= new Animali();
+	Animali tipo= new Animali();
+	
+		nome.setNome("gatto");
+		colore.setColore("nero");
+		tipo.setTipo("domestico");
+		
+		
+		Animali nomee= new Animali();
+		Animali coloree=new Animali();
+		Animali tipoo=new Animali();
+		nomee.setNome("mucca");
+		coloree.setColore("marrone");
+		tipoo.setTipo("fattoria");
+		
+	System.out.println(nome.getNome() + "  "+ colore.getColore() + "  " + tipo.getTipo());
+	System.out.println(nomee.getNome() + "  "+ coloree.getColore() + "  " + tipoo.getTipo());
+
+	
+	
+	if(controllaCodice())
+
+	}
+
+}

@@ -1,0 +1,22 @@
+package org.saluti.corso;
+
+public class ciao {
+
+	public static void main(String[] args) {
+		
+		Saluto francese = new Saluto();
+		francese.setNazione("francia");
+		francese.setModoSaluto("bonjour");
+		
+		
+		Saluto inglese = new Saluto();
+		inglese.setInghilterra("Goodmorning");
+		
+		
+		Saluto italiano = new Saluto();
+		italiano.setItalia("Goodmorning");
+		
+
+	}
+
+}

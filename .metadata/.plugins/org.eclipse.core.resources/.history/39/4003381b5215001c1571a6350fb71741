@@ -1,0 +1,24 @@
+package org.esercizio;
+
+public class Main {
+
+	public static void main(String[] args) {
+		persona alex = new persona ();
+		persona reira= new persona();
+		
+		alex.setNome("alex");
+		alex.setCognome("manno");
+		alex.setCf("OULAJS1234");
+		
+		reira.setNome("reira");
+		reira.setCognome("rajeswaran");
+		reira.setCf("ORUDNA1245");
+		
+		
+		
+		
+		System.out.println(alex.getNome() + "  "+ alex.getCognome() + "  " + alex.getCf()  ());
+		System.out.println(cane.getNome() + "  "+ cane.getColore() + "  " + cane.getTipo() + "   "  + cane.getSuono());
+	}
+
+}

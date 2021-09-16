@@ -1,0 +1,8 @@
+package org.calcolatrice;
+
+public class Calcolatrice {
+	
+	private int calcolatore1;
+	private int calcolatore2;
+
+}

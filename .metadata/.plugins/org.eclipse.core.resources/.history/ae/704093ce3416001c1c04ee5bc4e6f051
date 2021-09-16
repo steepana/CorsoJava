@@ -1,0 +1,10 @@
+package org.calcolatrice;
+
+public class sottrazione extends Operazioni {
+	@Override
+	public int esegui() {
+		
+		return this.getOperando1() - this.getOperando2();
+
+}
+}

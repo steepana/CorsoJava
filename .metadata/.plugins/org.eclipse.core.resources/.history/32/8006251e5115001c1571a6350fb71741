@@ -1,0 +1,11 @@
+package org.esercizio;
+
+public class Main {
+
+	public static void main(String[] args) {
+		persona alex = new persona ();
+		persona reira= new reira();
+
+	}
+
+}

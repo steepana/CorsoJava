@@ -1,0 +1,13 @@
+package org.calcolatrice;
+
+class calcolo {
+
+	public static void main(String[] args) {
+		
+		Calcolatrice addizione= new Addizione();
+		int risultato=addizione.calcola(20, 30)
+
+	
+	}
+
+}

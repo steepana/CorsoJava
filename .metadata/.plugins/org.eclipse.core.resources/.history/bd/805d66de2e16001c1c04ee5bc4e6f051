@@ -1,0 +1,11 @@
+package org.calcolatrice;
+
+class calcolo {
+
+	public static void main(String[] args) {
+		
+		Calcolatrice calcola= new calcolatrice();
+
+	}
+
+}

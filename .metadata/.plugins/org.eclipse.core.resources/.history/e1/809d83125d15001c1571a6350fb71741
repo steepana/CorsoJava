@@ -1,0 +1,7 @@
+package esercizio2.org;
+
+class Addizione  extends operazione{
+
+	
+	
+}

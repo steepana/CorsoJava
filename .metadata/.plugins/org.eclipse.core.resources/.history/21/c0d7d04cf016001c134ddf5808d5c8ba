@@ -1,0 +1,54 @@
+package org.saluti.corso;
+
+public class Saluto {
+
+
+	
+
+	private String Francia;
+	private String Inghilterra;
+	private String Italia;
+	public String saluto () {
+		
+		return getFrancia() + " " + get
+
+	}
+	
+	
+	
+	
+
+	public String getFrancia() {
+		return Francia;
+	}
+
+	public void setFrancia(String francia) {
+		Francia = francia;
+	}
+
+	public String getInghilterra() {
+		return Inghilterra;
+	}
+
+	public void setInghilterra(String inghilterra) {
+		Inghilterra = inghilterra;
+	}
+
+	public String getItalia() {
+		return Italia;
+	}
+
+	public void setItalia(String italia) {
+		Italia = italia;
+	}
+
+
+	
+
+
+
+
+}
+
+
+

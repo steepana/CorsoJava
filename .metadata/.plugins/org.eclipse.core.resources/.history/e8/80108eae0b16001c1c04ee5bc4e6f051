@@ -1,0 +1,13 @@
+package org.prova;
+
+class biblioteca {
+
+	public static void main(String[] args) {
+		
+		test libreria= new test();
+		libreria.getLibri("italiano");
+		libreria.getAutori("Leopardi");
+
+	}
+
+}

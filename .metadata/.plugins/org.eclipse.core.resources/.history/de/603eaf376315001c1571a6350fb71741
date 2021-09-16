@@ -1,0 +1,17 @@
+package esercizio2.org;
+
+public abstract class operazione {
+	
+	
+	private int operando1;
+	private int operando2;
+	private int risultato;
+	
+	
+	
+
+	
+}
+	
+
+	

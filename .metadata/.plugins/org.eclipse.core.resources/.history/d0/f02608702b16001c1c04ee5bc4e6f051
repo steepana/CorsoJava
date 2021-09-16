@@ -1,0 +1,8 @@
+package org.calcolatrice;
+
+public class Calcolatrice {
+	
+	private String calcolatore1;
+	private String calcolatore2;
+
+}

@@ -1,0 +1,12 @@
+package org.prova;
+
+class biblioteca {
+
+	public static void main(String[] args) {
+		
+		test biblio= new test();
+		
+
+	}
+
+}

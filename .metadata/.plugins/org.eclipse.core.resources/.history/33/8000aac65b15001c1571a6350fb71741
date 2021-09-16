@@ -1,0 +1,16 @@
+package esercizio2.org;
+
+public abstract class operazione {
+
+
+	private int operando1;
+	private int operando2;
+	
+	public int calcola(int operando1, int operando2) {
+		this.operando1 = operando1;
+		this.operando2 = operando2;
+		int risultato = this.esegui();
+		return risultato;
+	
+	
+}

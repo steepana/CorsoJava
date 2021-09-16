@@ -1,0 +1,61 @@
+package org.saluti.corso;
+
+public  abstract class Saluto {
+
+
+	
+
+	private String nazione;
+	private String modoSaluto;
+	
+	public String esegui () {
+		
+		return 0 };
+	
+	public String salutare (String nazione,String modoSaluto) {
+		this.nazione= nazione;
+		this.modoSaluto= modoSaluto;
+		this.risultato= this.esegui();
+		return risultato;
+		
+	}
+	
+	
+	
+	
+	protected abstract Object esegui();
+
+
+
+
+	public String getNazione() {
+		return nazione;
+	}
+	public void setNazione(String nazione) {
+		this.nazione = nazione;
+	}
+	public String getModoSaluto() {
+		return modoSaluto;
+	}
+	public void setModoSaluto(String modoSaluto) {
+		this.modoSaluto = modoSaluto;
+	}
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+
+
+
+		
+
+
+	
+

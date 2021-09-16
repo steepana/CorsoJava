@@ -1,0 +1,20 @@
+package org.saluti.corso;
+
+public class Saluto {
+
+
+	
+
+	private String nazione;
+	private String tipoSaluto;
+	
+	
+	}
+
+
+
+		
+
+
+	
+

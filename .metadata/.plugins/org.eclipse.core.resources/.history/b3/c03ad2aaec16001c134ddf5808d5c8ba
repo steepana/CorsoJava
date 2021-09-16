@@ -1,0 +1,14 @@
+package org.saluti.corso;
+
+public abstract Saluto {
+
+
+	
+	private String linguaSaluto;
+	
+
+
+}
+
+
+

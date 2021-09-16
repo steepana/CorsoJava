@@ -1,0 +1,18 @@
+package org.saluti.corso;
+
+public class Italiano extends Saluto{
+
+	@Override
+	protected String esegui() {
+	
+		return this.getNazione() + this.getModoSaluto();
+	}
+
+	
+		
+		
+
+	
+	
+
+}

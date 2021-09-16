@@ -1,0 +1,28 @@
+package org.corso;
+
+public class Animali {
+
+	private String tipo;
+	private String nome;
+	private Integer taglia;
+	public String getTipo() {
+		return tipo;
+	}
+	public void setTipo(String tipo) {
+		this.tipo = tipo;
+	}
+	public String getNome() {
+		return nome;
+	}
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+	public Integer getTaglia() {
+		return taglia;
+	}
+	public void setTaglia(Integer taglia) {
+		this.taglia = taglia;
+	}
+	
+
+}

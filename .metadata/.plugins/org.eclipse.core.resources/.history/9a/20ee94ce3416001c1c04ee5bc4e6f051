@@ -1,0 +1,29 @@
+package org.calcolatrice;
+
+class calcolo {
+
+	public static void main(String[] args) {
+		Operazioni Addizione = new addizione (); 
+		int risultato=Addizione.calcola(50, 30);
+		System.out.println("la somma è:" + risultato);
+		
+		
+		Operazioni sottrazione= new sottrazione();
+		risultato=sottrazione.calcola(50, 30);
+		System.out.println("la sottrazione è:" + risultato);
+		
+		
+		Operazioni divisione= new divisione();
+		risultato=divisione.calcola(50, 30);
+		System.out.println("la divisione è :" + risultato);
+		
+		Operazioni moltiplicazione= new moltiplicazione();
+		risultato=moltiplicazione.calcola(50, 30);
+		System.out.println("la moltiplicazione è :" + risultato);
+		
+		
+		
+
+	}
+
+}

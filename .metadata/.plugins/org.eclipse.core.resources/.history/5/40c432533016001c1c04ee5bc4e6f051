@@ -1,0 +1,8 @@
+package org.calcolatrice;
+
+public class addizione extends Calcolatrice {
+
+	
+	}
+
+

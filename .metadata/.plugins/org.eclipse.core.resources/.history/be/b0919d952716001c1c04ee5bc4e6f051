@@ -1,0 +1,28 @@
+package org.prova;
+
+class biblioteca {
+
+	public static void main(String[] args) {
+		
+		test leopardi= new test();
+		leopardi.setLibri("italiano");
+		leopardi.setAutori("Leopardi");
+		leopardi.setTitoli("sabato del villaggio");
+		
+
+		test kant= new test();
+		kant.setAutori("Kant");
+		kant.setLibri("tedesco");
+		kant.setTitoli("schwarz");
+		
+		{
+			
+			if (leopardi.getAutori())
+		}
+		System.out.println(kant.getAutori("il libro è sabato del villaggio"));
+		
+		
+	
+	}
+
+}

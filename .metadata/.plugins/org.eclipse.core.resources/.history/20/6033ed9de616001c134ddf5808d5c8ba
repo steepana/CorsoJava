@@ -1,0 +1,49 @@
+package org.costruttore;
+
+public class Macchina {
+	
+	private String modello;
+	
+	
+	
+	private long velocità;
+	private long velocitaMax;
+	
+	public Macchina(int valocità) {
+		this.();
+		this.velocità=velocità;
+		
+		
+	} 
+	
+	{
+		
+		public Macchina() {
+			
+			this.velocitaMax=500;
+			
+		}
+		
+		{
+	public String getModello() {
+		return modello;
+	}
+	public void setModello(String modello) {
+		this.modello = modello;
+	}
+	public long getVelocità() {
+		return velocità;
+	}
+	public void setVelocità(long velocità) {
+		this.velocità = velocità;
+	}
+	public long getVelocitaMax() {
+		return velocitaMax;
+	}
+	public void setVelocitaMax(long velocitaMax) {
+		this.velocitaMax = velocitaMax;
+	}
+
+	
+
+}

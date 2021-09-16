@@ -1,0 +1,21 @@
+package org.saluti.corso;
+
+public class Saluto {
+
+
+	
+
+	private String nazione;
+	private String lingua;
+
+	public String saluta() {
+		
+		return null;
+	}
+	
+		
+
+
+	
+}
+

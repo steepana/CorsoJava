@@ -1,0 +1,9 @@
+package org.esercizio;
+
+public class persona {
+	
+	private String nome;
+	private String cognome;
+	private String cf;
+
+}

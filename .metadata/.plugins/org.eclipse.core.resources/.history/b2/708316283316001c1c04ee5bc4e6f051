@@ -1,0 +1,12 @@
+package org.calcolatrice;
+
+public class addizione extends Operazioni{
+
+	@Override
+	public int esegui() {
+		
+		this.getOperando1() + this.getOperando2();
+	}
+
+	
+}

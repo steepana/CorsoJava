@@ -1,0 +1,24 @@
+package org.corso;
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Animali nome= new Animali();
+		Animali colore= new Animali();
+	
+		nome.setNome("gatto");
+		colore.setColore("nero");
+		
+		
+		Animali mucca= new Animali();
+		Animali marrone=new Animali();
+		mucca.setColore("marrone");
+		mucca.setTipo("fattoria");
+		
+	System.out.println(gatto.getColore() + "  "+ gatto.getTipo());
+	System.out.println(mucca.getColore()+ "  " + mucca.getTipo());
+	
+
+	}
+
+}

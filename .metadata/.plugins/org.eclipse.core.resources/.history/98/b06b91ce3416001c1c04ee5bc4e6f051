@@ -1,0 +1,11 @@
+package org.calcolatrice;
+
+public class moltiplicazione extends Operazioni {
+	
+	public int esegui() {
+		
+		return this.getOperando1() * this.getOperando2();
+
+}
+
+}

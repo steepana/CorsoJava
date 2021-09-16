@@ -1,0 +1,11 @@
+package org.saluti.corso;
+
+public class Italiano extends Saluto{
+
+	@Override
+	public String getModoSaluto() {
+		
+		return this.getModoSaluto();
+	}
+
+}

@@ -1,0 +1,13 @@
+package esercizio2.org;
+
+public class Addizione  extends operazione{
+
+	@Override
+	public int calcola(int operando1, int operando2) {
+	
+		return (risultato);
+	}
+
+
+	
+}

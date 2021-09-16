@@ -1,0 +1,27 @@
+
+public class Animali {
+
+	private String tipo;
+	private String colore;
+	private Integer taglia;
+	public String getTipo() {
+		return tipo;
+	}
+	public void setTipo(String tipo) {
+		this.tipo = tipo;
+	}
+	public String getColore() {
+		return colore;
+	}
+	public void setColore(String colore) {
+		this.colore = colore;
+	}
+	public Integer getTaglia() {
+		return taglia;
+	}
+	public void setTaglia(Integer taglia) {
+		this.taglia = taglia;
+	}
+
+
+}

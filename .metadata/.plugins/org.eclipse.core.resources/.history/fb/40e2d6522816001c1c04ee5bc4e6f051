@@ -1,0 +1,31 @@
+package org.prova;
+
+class biblioteca {
+
+	public static void main(String[] args) {
+		
+		test libri= new test();
+		libri.setLibri("italiano");
+		libri.setAutori("Leopardi");
+		libri.setTitoli("sabato del villaggio");
+		
+
+	
+		libri.setAutori("Kant");
+		libri.setLibri("tedesco");
+		libri.setTitoli("schwarz");
+	
+		
+		
+		{	
+			if (leopardi.getLibri())
+				
+				System.out.println(("il libro è sabato del villaggio"));
+			
+		}
+		
+		
+	
+	}
+
+}

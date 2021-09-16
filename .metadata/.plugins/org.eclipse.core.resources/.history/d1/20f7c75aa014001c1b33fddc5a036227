@@ -1,0 +1,5 @@
+package org.corso;
+
+public class Insetti extends Animali {
+
+}

@@ -1,0 +1,9 @@
+package org.costruttore;
+
+public class Macchina {
+	
+	private String modello;
+	private long velocità;
+	private long velocitaMax;
+
+}

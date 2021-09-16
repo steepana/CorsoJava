@@ -1,0 +1,28 @@
+package org.saluti.corso;
+
+public class Saluto {
+
+
+	
+	private String linguaSaluto;
+	private String Francia;
+	private String Inghilterra;
+	private String Italia;
+	
+
+	public String getLinguaSaluto() {
+		return linguaSaluto;
+	}
+
+	public void setLinguaSaluto(String linguaSaluto) {
+		this.linguaSaluto = linguaSaluto;
+	}
+	
+
+
+
+
+}
+
+
+

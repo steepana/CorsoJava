@@ -1,0 +1,12 @@
+package org.corso;
+
+public class Gatto extends Animali {
+
+	@Override
+	public String suono() {
+		
+		return "miao";
+	}
+
+	
+}

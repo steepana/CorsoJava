@@ -1,0 +1,7 @@
+package org.calcolatrice;
+
+public class Calcolatrice {
+	
+	private String operations();
+
+}

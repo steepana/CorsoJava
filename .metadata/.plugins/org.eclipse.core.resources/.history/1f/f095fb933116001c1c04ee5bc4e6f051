@@ -1,0 +1,14 @@
+package org.calcolatrice;
+
+public class addizione extends Calcolatrice {
+
+	@Override
+	public int effettua() {
+		
+		return this.getCalcolatore1() + this.getCalcolatore2();
+	}
+
+	
+	}
+
+

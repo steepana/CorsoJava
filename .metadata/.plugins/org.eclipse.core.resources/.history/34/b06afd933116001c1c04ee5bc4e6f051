@@ -1,0 +1,10 @@
+package org.calcolatrice;
+
+public class divisione  extends Calcolatrice{
+	@Override
+	public int effettua() {
+		
+		return this.getCalcolatore1() + this.getCalcolatore2();
+}
+
+}

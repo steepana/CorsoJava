@@ -1,0 +1,16 @@
+package org.saluti.corso;
+
+public class ciao {
+
+	public static void main(String[] args) {
+		
+		Saluto francese = new Saluto();
+		francese.setFrancia("Bonjour");
+		
+		
+		Saluto inglese = new Saluto();
+		inglese.setInghilterra("Goodmorning");
+
+	}
+
+}

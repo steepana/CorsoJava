@@ -1,0 +1,5 @@
+package esercizio2.org;
+
+public class Sottrazione  extends operazione{
+
+}

@@ -1,0 +1,56 @@
+package org.costruttore;
+
+public class Macchina {
+	
+	private String modello;
+	private long velocità;
+	private long velocitaMax;
+	private Persona proprietario;
+	
+	public Macchina(Persona proprietario) {
+		this.velocitaMax=500;
+		this.
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	public Macchina(int velcità) {
+		this();//serve a stampare sia velocità che velocità mx insieme
+		this.velocità=velocità;
+	}
+	
+	
+	public Macchina() {
+		
+		this.velocitaMax=500;
+	}
+	
+	public String getModello() {
+		
+		
+		return modello;
+	}
+	public void setModello(String modello) {
+		this.modello = modello;
+	}
+	public long getVelocità() {
+		return velocità;
+	}
+	public void setVelocità(long velocità) {
+		this.velocità = velocità;
+	}
+	public long getVelocitaMax() {
+		return velocitaMax;
+	}
+	public void setVelocitaMax(long velocitaMax) {
+		this.velocitaMax = velocitaMax;
+	}
+
+	
+
+}

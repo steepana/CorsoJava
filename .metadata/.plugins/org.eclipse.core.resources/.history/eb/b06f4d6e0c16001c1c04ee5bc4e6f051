@@ -1,0 +1,20 @@
+package org.prova;
+
+class biblioteca {
+
+	public static void main(String[] args) {
+		
+		test poesia= new test();
+		poesia.setLibri("italiano");
+		poesia.setAutori("Leopardi");
+		poesia.setTitoli("sabato del villaggio");
+		
+
+
+		poesia.setAutori("Kant");
+		poesia.setLibri("tedesco");
+		poesia.setTitoli("schwarz");
+	
+	}
+
+}

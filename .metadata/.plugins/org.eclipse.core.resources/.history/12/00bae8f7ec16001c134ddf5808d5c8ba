@@ -1,0 +1,14 @@
+package org.saluti.corso;
+
+public class Saluto {
+
+
+	
+	private String linguaSaluto;
+	
+
+
+}
+
+
+

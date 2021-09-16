@@ -1,0 +1,12 @@
+package org.calcolatrice;
+
+public class Calcolatrice {
+	
+	private int calcolatore1;
+	private int calcolatore2;
+	private int effettua () {
+		
+		return 0;
+	};
+
+}

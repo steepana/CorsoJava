@@ -1,0 +1,18 @@
+package org.calcolatrice;
+
+public abstract class Operazioni {
+	
+	private int operando1;
+	private int operando2;
+	public int esegui () {
+		
+		return 0;
+	};
+	
+	public int calcola(operando1,operando2);
+	
+	
+	
+	
+
+}

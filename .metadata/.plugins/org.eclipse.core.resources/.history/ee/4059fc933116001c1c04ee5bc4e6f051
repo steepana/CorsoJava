@@ -1,0 +1,11 @@
+package org.calcolatrice;
+
+public class sottrazione extends Calcolatrice {
+
+	
+	@Override
+	public int effettua() {
+		
+		return this.getCalcolatore1() + this.getCalcolatore2();
+}
+}

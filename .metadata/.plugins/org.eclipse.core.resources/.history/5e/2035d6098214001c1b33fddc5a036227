@@ -1,0 +1,22 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Animali gatto= new Animali();
+		Animali nero= new Animali();
+	
+		gatto.setColore("nero");
+		gatto.setTipo("domestico");
+		
+		
+		Animali mucca= new Animali();
+		Animali marrone=new Animali();
+		mucca.setColore("marrone");
+		mucca.setTipo("fattoria");
+		
+		system
+
+	}
+
+}
